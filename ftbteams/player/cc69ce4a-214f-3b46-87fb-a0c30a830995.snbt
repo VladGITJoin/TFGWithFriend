@@ -2,9 +2,7 @@
 	id: "cc69ce4a-214f-3b46-87fb-a0c30a830995"
 	type: "player"
 	player_name: "Jumbeexer"
-	ranks: {
-		cc69ce4a-214f-3b46-87fb-a0c30a830995: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Jumbeexer"
 		"ftbteams:description": ""
