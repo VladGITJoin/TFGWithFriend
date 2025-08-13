@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.polished_blackstone_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/granite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/diorite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/gabbro",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/shale",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/claystone",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/limestone",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/conglomerate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/dolomite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/chert",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/chalk",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/rhyolite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/basalt",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/andesite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/dacite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/quartzite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/slate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/phyllite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/schist",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/gneiss",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/marble",
+      "required": false
+    }
+  ]
+}

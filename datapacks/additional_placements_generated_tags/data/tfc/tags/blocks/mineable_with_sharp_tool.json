@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:firmaciv.thatch_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.thatch_roofing_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.thatch_roofing_slab",
+      "required": false
+    }
+  ]
+}

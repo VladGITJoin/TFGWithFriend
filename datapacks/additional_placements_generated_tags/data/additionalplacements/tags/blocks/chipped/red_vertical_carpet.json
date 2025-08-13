@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.barky_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.blocky_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.bundled_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cross_haired_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cubed_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.knitted_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.patched_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.rectangle_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.ribbled_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.scaled_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.soft_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.stringed_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tiled_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tripped_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.wickered_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.windmill_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.woved_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cornered_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.crafted_red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.harsh_quilted_red_carpet",
+      "required": false
+    }
+  ]
+}

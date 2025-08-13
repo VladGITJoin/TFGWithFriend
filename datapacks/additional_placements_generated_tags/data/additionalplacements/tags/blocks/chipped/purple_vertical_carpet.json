@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.barky_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.blocky_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.bundled_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cross_haired_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cubed_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.knitted_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.patched_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.rectangle_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.ribbled_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.scaled_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.soft_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.stringed_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tiled_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tripped_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.wickered_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.windmill_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.woved_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cornered_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.crafted_purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.harsh_quilted_purple_carpet",
+      "required": false
+    }
+  ]
+}

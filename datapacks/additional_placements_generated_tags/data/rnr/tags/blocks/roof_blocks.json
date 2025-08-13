@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:rnr.roof_frame_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:rnr.roof_frame_stairs",
+      "required": false
+    }
+  ]
+}

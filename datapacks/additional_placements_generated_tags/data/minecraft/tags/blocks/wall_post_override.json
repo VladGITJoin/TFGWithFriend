@@ -1,0 +1,257 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.bamboo_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.light_weighted_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.heavy_weighted_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.polished_blackstone_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/granite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/diorite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/gabbro",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/shale",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/claystone",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/limestone",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/conglomerate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/dolomite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/chert",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/chalk",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/rhyolite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/basalt",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/andesite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/dacite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/quartzite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/slate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/phyllite",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/schist",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/gneiss",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/pressure_plate/marble",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/acacia_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/ash_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/aspen_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/birch_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/blackwood_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/chestnut_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/douglas_fir_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/hickory_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/kapok_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/mangrove_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/maple_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/oak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/palm_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/pine_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/rosewood_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sequoia_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/spruce_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sycamore_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/white_cedar_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/willow_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/baobab_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/eucalyptus_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/mahogany_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/hevea_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/tualang_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/teak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/cypress_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/fig_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ironwood_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ipe_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.iron_plating_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.steel_plating_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.desh_plating_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.ostrum_plating_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.calorite_plating_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.glacian_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/crimson_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/warped_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:gtceu.treated_wood_pressure_plate",
+      "required": false
+    }
+  ]
+}

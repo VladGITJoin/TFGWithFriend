@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.barky_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.blocky_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.bundled_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cross_haired_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cubed_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.knitted_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.patched_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.rectangle_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.ribbled_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.scaled_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.soft_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.stringed_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tiled_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tripped_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.wickered_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.windmill_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.woved_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cornered_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.crafted_orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.harsh_quilted_orange_carpet",
+      "required": false
+    }
+  ]
+}

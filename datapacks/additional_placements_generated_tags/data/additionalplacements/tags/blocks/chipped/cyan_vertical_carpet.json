@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.barky_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.blocky_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.bundled_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cross_haired_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cubed_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.knitted_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.patched_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.rectangle_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.ribbled_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.scaled_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.soft_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.stringed_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tiled_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tripped_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.wickered_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.windmill_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.woved_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cornered_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.crafted_cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.harsh_quilted_cyan_carpet",
+      "required": false
+    }
+  ]
+}

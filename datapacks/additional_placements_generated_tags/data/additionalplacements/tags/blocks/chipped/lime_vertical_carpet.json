@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.barky_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.blocky_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.bundled_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cross_haired_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cubed_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.knitted_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.patched_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.rectangle_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.ribbled_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.scaled_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.soft_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.stringed_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tiled_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tripped_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.wickered_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.windmill_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.woved_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cornered_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.crafted_lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.harsh_quilted_lime_carpet",
+      "required": false
+    }
+  ]
+}

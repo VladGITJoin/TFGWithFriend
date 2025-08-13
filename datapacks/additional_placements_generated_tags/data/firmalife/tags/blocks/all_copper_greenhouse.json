@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:firmalife.oxidized_copper_greenhouse_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.oxidized_copper_greenhouse_roof_top",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.weathered_copper_greenhouse_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.weathered_copper_greenhouse_roof_top",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.exposed_copper_greenhouse_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.exposed_copper_greenhouse_roof_top",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.copper_greenhouse_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.copper_greenhouse_roof_top",
+      "required": false
+    }
+  ]
+}

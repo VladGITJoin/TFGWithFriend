@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.barky_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.blocky_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.bundled_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cross_haired_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cubed_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.knitted_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.patched_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.rectangle_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.ribbled_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.scaled_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.soft_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.stringed_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tiled_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tripped_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.wickered_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.windmill_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.woved_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cornered_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.crafted_magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.harsh_quilted_magenta_carpet",
+      "required": false
+    }
+  ]
+}

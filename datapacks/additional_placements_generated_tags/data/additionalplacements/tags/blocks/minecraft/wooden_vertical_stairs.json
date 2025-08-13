@@ -1,0 +1,157 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.bamboo_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/acacia_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/ash_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/aspen_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/birch_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/blackwood_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/chestnut_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/douglas_fir_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/hickory_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/kapok_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/mangrove_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/maple_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/oak_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/palm_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/pine_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/rosewood_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sequoia_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/spruce_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sycamore_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/white_cedar_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/willow_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/palm_mosaic_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:domum_ornamentum.vanilla_stairs_compat",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/baobab_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/eucalyptus_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/mahogany_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/hevea_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/tualang_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/teak_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/cypress_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/fig_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ironwood_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ipe_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.aeronos_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.strophar_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.glacian_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/crimson_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/warped_stairs",
+      "required": false
+    }
+  ]
+}

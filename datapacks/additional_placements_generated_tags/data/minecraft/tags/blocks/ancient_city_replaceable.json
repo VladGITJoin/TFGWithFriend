@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.deepslate_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.deepslate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.deepslate_brick_slab",
+      "required": false
+    }
+  ]
+}

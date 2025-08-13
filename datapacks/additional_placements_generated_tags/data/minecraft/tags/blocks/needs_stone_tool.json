@@ -1,0 +1,197 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.weathered_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.waxed_oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.waxed_weathered_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.waxed_exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.waxed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.waxed_oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.waxed_weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.waxed_exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.waxed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.copper_shingle_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.exposed_copper_shingle_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.weathered_copper_shingle_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.oxidized_copper_shingle_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.copper_shingle_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.exposed_copper_shingle_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.weathered_copper_shingle_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.oxidized_copper_shingle_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_copper_shingle_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_exposed_copper_shingle_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_weathered_copper_shingle_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_oxidized_copper_shingle_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_copper_shingle_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_exposed_copper_shingle_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_weathered_copper_shingle_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_oxidized_copper_shingle_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.copper_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.exposed_copper_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.weathered_copper_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.oxidized_copper_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.copper_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.exposed_copper_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.weathered_copper_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.oxidized_copper_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_copper_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_exposed_copper_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_weathered_copper_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_oxidized_copper_tile_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_copper_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_exposed_copper_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_weathered_copper_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.waxed_oxidized_copper_tile_stairs",
+      "required": false
+    }
+  ]
+}

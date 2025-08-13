@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:tfc.mud_bricks/silt_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/silt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/loam_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/loam_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/sandy_loam_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/sandy_loam_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/silty_loam_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/silty_loam_stairs",
+      "required": false
+    }
+  ]
+}

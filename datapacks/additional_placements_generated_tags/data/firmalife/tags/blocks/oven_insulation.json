@@ -1,0 +1,1441 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.polished_blackstone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.polished_blackstone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.deepslate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.deepslate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/silt_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/silt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/loam_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/loam_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/sandy_loam_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/sandy_loam_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/silty_loam_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.mud_bricks/silty_loam_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/diorite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/diorite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/diorite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/diorite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/diorite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/diorite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/gabbro_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/gabbro_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/gabbro_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/gabbro_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/gabbro_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/gabbro_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/shale_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/shale_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/shale_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/shale_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/shale_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/shale_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/claystone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/claystone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/claystone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/claystone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/claystone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/claystone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/limestone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/limestone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/limestone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/limestone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/limestone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/limestone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/conglomerate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/conglomerate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/conglomerate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/conglomerate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/conglomerate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/conglomerate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/dolomite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/dolomite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/dolomite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/dolomite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/dolomite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/dolomite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/chert_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/chert_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/chert_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/chert_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/chert_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/chert_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/chalk_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/chalk_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/chalk_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/chalk_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/chalk_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/chalk_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/rhyolite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/rhyolite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/rhyolite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/rhyolite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/rhyolite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/rhyolite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/basalt_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/basalt_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/basalt_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/andesite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/andesite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/andesite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/dacite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/dacite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/dacite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/dacite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/dacite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/dacite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/quartzite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/quartzite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/quartzite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/quartzite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/quartzite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/quartzite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/slate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/slate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/slate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/slate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/slate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/slate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/phyllite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/phyllite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/phyllite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/phyllite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/phyllite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/phyllite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/schist_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/schist_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/schist_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/schist_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/schist_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/schist_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/gneiss_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/gneiss_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/gneiss_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/gneiss_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/gneiss_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/gneiss_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/marble_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/bricks/marble_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/marble_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cracked_bricks/marble_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/marble_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_bricks/marble_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/white_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/white_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/orange_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/orange_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/magenta_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/magenta_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/light_blue_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/light_blue_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/yellow_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/yellow_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/lime_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/lime_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/pink_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/pink_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/gray_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/gray_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/light_gray_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/light_gray_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/cyan_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/cyan_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/purple_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/purple_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/blue_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/blue_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/brown_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/brown_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/green_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/green_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/red_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/red_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/black_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.alabaster/bricks/black_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.brick_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.moon_stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.moon_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.mars_stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.mars_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.mercury_stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.mercury_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.venus_stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.venus_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.venus_sandstone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.venus_sandstone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.glacio_stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.glacio_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.permafrost_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.permafrost_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.chiseled_permafrost_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.chiseled_permafrost_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_granite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_granite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_granite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_granite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_diorite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_diorite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_diorite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_diorite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_andesite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_andesite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_andesite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_andesite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_calcite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_calcite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_calcite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_calcite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_dripstone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_dripstone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_dripstone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_dripstone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_deepslate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_deepslate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_deepslate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_deepslate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_tuff_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_tuff_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_tuff_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_tuff_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_asurine_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_asurine_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_asurine_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_asurine_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_crimsite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_crimsite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_crimsite_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_crimsite_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_limestone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_limestone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_limestone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_limestone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_ochrum_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_ochrum_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_ochrum_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_ochrum_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_scoria_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_scoria_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_scoria_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_scoria_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_scorchia_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_scorchia_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_scorchia_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_scorchia_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_veridium_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.cut_veridium_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_veridium_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:create.small_veridium_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_red_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_red_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_red_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_red_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_red_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_red_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_red_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_red_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_red_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_red_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_red_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_red_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.blue_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_blue_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_blue_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_blue_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_blue_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_blue_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_blue_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.blue_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_blue_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_blue_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_blue_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_blue_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_blue_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_blue_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.dean_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_dean_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_dean_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_dean_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_dean_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_dean_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_dean_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.dean_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_dean_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_dean_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_dean_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_dean_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_dean_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_dean_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.dusk_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_dusk_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_dusk_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_dusk_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_dusk_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_dusk_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_dusk_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.dusk_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_dusk_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_dusk_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_dusk_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_dusk_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_dusk_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_dusk_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.verdant_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_verdant_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_verdant_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_verdant_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_verdant_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_verdant_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_verdant_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.verdant_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_verdant_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_verdant_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_verdant_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_verdant_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_verdant_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_verdant_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.pearl_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_pearl_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_pearl_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_pearl_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_pearl_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_pearl_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_pearl_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.pearl_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_pearl_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_pearl_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_pearl_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_pearl_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_pearl_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_pearl_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.scarlet_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_scarlet_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_scarlet_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_scarlet_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_scarlet_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_scarlet_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_scarlet_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.scarlet_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_scarlet_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_scarlet_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_scarlet_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_scarlet_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_scarlet_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_scarlet_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.umber_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_umber_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_umber_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_umber_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_umber_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_umber_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_umber_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.umber_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.short_umber_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.tiled_umber_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.long_umber_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.corner_umber_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.cracked_umber_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:createdeco.mossy_umber_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ae2.sky_stone_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ae2.sky_stone_small_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ae2.quartz_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ae2.sky_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ae2.sky_stone_small_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ae2.quartz_brick_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.rustic_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.rustic_bricks_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.tiles_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.tiles_stairs",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.bamboo_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.bamboo_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.bamboo_mosaic_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.bamboo_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.bamboo_mosaic_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/acacia_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/acacia_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/acacia_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/ash_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/ash_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/ash_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/aspen_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/aspen_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/aspen_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/birch_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/birch_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/birch_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/blackwood_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/blackwood_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/blackwood_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/chestnut_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/chestnut_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/chestnut_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/douglas_fir_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/douglas_fir_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/douglas_fir_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/hickory_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/hickory_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/hickory_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/kapok_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/kapok_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/kapok_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/mangrove_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/mangrove_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/mangrove_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/maple_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/maple_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/maple_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/oak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/oak_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/oak_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/palm_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/palm_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/palm_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/pine_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/pine_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/pine_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/rosewood_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/rosewood_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/rosewood_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sequoia_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sequoia_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sequoia_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/spruce_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/spruce_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/spruce_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sycamore_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sycamore_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/sycamore_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/white_cedar_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/white_cedar_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/white_cedar_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/willow_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/willow_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/willow_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/palm_mosaic_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.wood/planks/palm_mosaic_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.oak_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.birch_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.jungle_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.dark_oak_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.spruce_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.acacia_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.mangrove_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.cherry_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.crimson_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.warped_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:alekiroofs.bamboo_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/acacia_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/ash_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/aspen_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/birch_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/blackwood_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/chestnut_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/douglas_fir_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/hickory_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/kapok_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/mangrove_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/maple_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/oak_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/palm_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/pine_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/rosewood_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/sequoia_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/spruce_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/sycamore_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/white_cedar_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmaciv.wood/willow_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:domum_ornamentum.vanilla_slab_compat",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:domum_ornamentum.vanilla_stairs_compat",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/baobab_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/baobab_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/baobab_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/eucalyptus_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/eucalyptus_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/eucalyptus_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/mahogany_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/mahogany_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/mahogany_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/hevea_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/hevea_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/hevea_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/tualang_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/tualang_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/tualang_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/teak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/teak_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/teak_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/cypress_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/cypress_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/cypress_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/fig_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/fig_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/fig_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ironwood_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ironwood_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ironwood_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ipe_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ipe_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:afc.wood/planks/ipe_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.aeronos_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.aeronos_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.strophar_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.strophar_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.glacian_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.glacian_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.glacian_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_waterloggable_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_stone_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_waterloggable_stone_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_waterloggable_obsidian_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_gold_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_waterloggable_gold_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_iron_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:framedblocks.framed_waterloggable_iron_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/crimson_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/crimson_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/crimson_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/warped_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/warped_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:beneath.wood/planks/warped_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/crimson_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/ipe_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/baobab_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/fig_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/eucalyptus_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/warped_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/tualang_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/hevea_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/cypress_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/mahogany_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/teak_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmacivplus.wood/ironwood_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:rnr.roof_frame_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:rnr.roof_frame_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:gtceu.treated_wood_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:gtceu.treated_wood_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:gtceu.treated_wood_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.weathered_treated_wood_greenhouse_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.weathered_treated_wood_greenhouse_roof_top",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.treated_wood_greenhouse_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:firmalife.treated_wood_greenhouse_roof_top",
+      "required": false
+    }
+  ]
+}

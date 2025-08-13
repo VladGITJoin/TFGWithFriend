@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:alekiroofs.brick_roofing",
+      "required": false
+    }
+  ]
+}

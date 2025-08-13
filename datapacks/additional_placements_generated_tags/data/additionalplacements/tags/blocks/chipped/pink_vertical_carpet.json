@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.barky_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.blocky_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.bundled_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cross_haired_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cubed_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.knitted_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.patched_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.rectangle_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.ribbled_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.scaled_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.soft_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.stringed_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tiled_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tripped_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.wickered_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.windmill_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.woved_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cornered_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.crafted_pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.harsh_quilted_pink_carpet",
+      "required": false
+    }
+  ]
+}

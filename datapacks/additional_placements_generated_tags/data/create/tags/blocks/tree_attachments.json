@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.moss_carpet",
+      "required": false
+    }
+  ]
+}

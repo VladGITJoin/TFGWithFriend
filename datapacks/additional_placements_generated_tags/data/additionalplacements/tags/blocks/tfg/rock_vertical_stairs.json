@@ -1,0 +1,353 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.blackstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.cobbled_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/diorite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/diorite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/diorite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/diorite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/gabbro_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/gabbro_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/gabbro_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/gabbro_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/shale_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/shale_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/shale_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/shale_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/claystone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/claystone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/claystone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/claystone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/limestone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/limestone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/limestone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/limestone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/conglomerate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/conglomerate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/conglomerate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/conglomerate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/dolomite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/dolomite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/dolomite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/dolomite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/chert_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/chert_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/chert_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/chert_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/chalk_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/chalk_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/chalk_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/chalk_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/rhyolite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/rhyolite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/rhyolite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/rhyolite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/andesite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/dacite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/dacite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/dacite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/dacite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/quartzite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/quartzite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/quartzite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/quartzite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/slate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/slate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/slate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/slate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/phyllite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/phyllite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/phyllite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/phyllite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/schist_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/schist_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/schist_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/schist_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/gneiss_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/gneiss_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/gneiss_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/gneiss_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/raw/marble_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/smooth/marble_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/cobble/marble_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfc.rock/mossy_cobble/marble_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.moon_stone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.mars_stone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.mercury_stone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.venus_stone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:ad_astra.glacio_stone_stairs",
+      "required": false
+    }
+  ]
+}

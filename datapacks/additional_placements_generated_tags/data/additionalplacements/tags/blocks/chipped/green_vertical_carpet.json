@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.barky_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.blocky_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.bundled_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cross_haired_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cubed_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.knitted_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.patched_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.rectangle_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.ribbled_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.scaled_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.soft_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.stringed_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tiled_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.tripped_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.wickered_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.windmill_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.woved_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.cornered_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.crafted_green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:chipped.harsh_quilted_green_carpet",
+      "required": false
+    }
+  ]
+}
