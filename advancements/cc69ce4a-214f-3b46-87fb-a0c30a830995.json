@@ -161,13 +161,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_planks": "2025-08-16 21:29:53 +0300"
+      "has_brick": "2025-08-16 23:50:39 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-08-16 21:29:53 +0300"
     },
@@ -179,9 +179,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_brick": "2025-08-16 23:50:39 +0300"
+      "has_planks": "2025-08-16 21:29:53 +0300"
     },
     "done": true
   },
